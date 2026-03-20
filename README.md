@@ -1,1 +1,1 @@
-# MCPI
+# MCPI_Self-study
