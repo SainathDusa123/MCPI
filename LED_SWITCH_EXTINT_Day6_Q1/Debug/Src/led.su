@@ -1,0 +1,6 @@
+../Inc/system_stm32f4xx.h:128:20:DelayMs	24	static
+../Src/led.c:13:6:led_init	16	static
+../Src/led.c:28:6:led_on	16	static
+../Src/led.c:33:6:led_off	16	static
+../Src/led.c:38:6:led_toggle	16	static
+../Src/led.c:43:6:led_change	16	static
