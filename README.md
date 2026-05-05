@@ -1,1 +1,1 @@
-# MCPI_Self-study
+# Microcontroller programming on stm32f407
